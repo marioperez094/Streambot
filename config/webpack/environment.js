@@ -8,7 +8,7 @@ const customConfig = {
       '@src': path.resolve(__dirname, '..', '..', 'app/javascript/src'),
       '@packs': path.resolve(__dirname, '..', '..', 'app/javascript/packs'),
       '@pages': path.resolve(__dirname, '..', '..', 'app/javascript/src/pages'),
-      '@components': path.resolve(__dirname, '..', '..', 'app/javascript/components'),
+      '@components': path.resolve(__dirname, '..', '..', 'app/javascript/src/components'),
     }
   }
 }

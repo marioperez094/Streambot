@@ -1,0 +1,6 @@
+@import "@packs/variables.scss";
+
+nav {
+  background-color: $primary-color;
+  background: linear-gradient(120deg, $primary-color, $secondary-color);
+}
